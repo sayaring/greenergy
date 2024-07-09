@@ -1,0 +1,819 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202205 will be lost/reset.
+# Last config file used to build this data file was /home/bd151o2rvaep/tmp/awstats/awstats.greenergysolution.in.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2021                
+POS_TIME 2689                
+POS_VISITOR 8405                
+POS_DAY 16993               
+POS_DOMAIN 3512                
+POS_LOGIN 4048                
+POS_ROBOT 4203                
+POS_WORMS 4540                
+POS_EMAILSENDER 4671                
+POS_EMAILRECEIVER 4814                
+POS_SESSION 17852               
+POS_SIDER 18063               
+POS_FILETYPES 4949                
+POS_DOWNLOADS 5279                
+POS_OS 5567                
+POS_BROWSER 5778                
+POS_SCREENSIZE 6777                
+POS_UNKNOWNREFERER 6851                
+POS_UNKNOWNREFERERBROWSER 7049                
+POS_ORIGIN 7242                
+POS_SEREFERRALS 7383                
+POS_PAGEREFS 7546                
+POS_SEARCHWORDS 7694                
+POS_KEYWORDS 7846                
+POS_MISC 2353                
+POS_ERRORS 7905                
+POS_CLUSTER 3904                
+POS_SIDER_404 8029                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20220601000248 244 60799 9903090984935
+FirstTime 0
+LastTime 20220531211936
+LastUpdate 20220601051528 244 0 243 0 0
+TotalVisits 182                 
+TotalUnique 117                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 262                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+FlashSupport 0 0 0
+QuickTimeSupport 0 0 0
+DirectorSupport 0 0 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 174 985 37469039 16 19 5980
+1 67 809 43499028 6 10 83549
+2 351 1969 83249553 57 77 542701
+3 440 2210 80996225 52 64 910487
+4 419 2311 97227063 30 40 20951
+5 677 3693 146975407 54 73 1068498
+6 22 207 12087135 9 15 59253
+7 36 215 10648431 7 17 100880
+8 38 336 16912132 7 9 37000
+9 9 144 7483063 17 71 6798786
+10 12 144 8274946 7 11 120854
+11 37 505 26606228 9 14 55856
+12 4 73 4022620 14 85 2122647
+13 0 1 275 2 2 12160
+14 0 3 8010 8 45 1134703
+15 0 1 3525 5 6 3311026
+16 9 85 4525027 4 6 48823
+17 1 1 10760 1 2 11080
+18 0 2 550 7 14 466998
+19 4 37 2932379 4 23 268543
+20 1 4 75104 4 28 3620961
+21 56 524 19902399 7 30 2464686
+22 222 1785 92243971 16 57 918920
+23 147 1178 51730775 13 84 1705768
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 22
+in 1796 10421 423850867
+us 866 6381 300700782
+my 35 140 2810121
+ca 19 211 12862459
+se 5 13 56289
+ro 2 14 4553762
+au 1 10 1198246
+be 1 2 11054
+pl 1 1 10739
+dk 0 1 23243
+il 0 2 3446
+de 0 1 38478
+bd 0 7 136645
+vg 0 1 38459
+np 0 1 53495
+ir 0 4 18275
+iq 0 2 45017
+bg 0 1 23032
+ru 0 5 334959
+tr 0 1 1557
+nl 0 2 106948
+md 0 1 5772
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 5
+bingbot/ 317 15392348 20220531234954 0
+bingpreview 196 7981270 20220531234219 0
+spider 19 250971 20220501191900 0
+DuckDuckGo\-Favicons\-Bot/ 6 42733 20220531204531 0
+no_user_agent 3 17638 20220515225511 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 13
+map 308 84700 0 0
+jpg 5166 530247958 0 0
+js 2932 41199788 0 0
+svg 1 175105 0 0
+woff 5 327260 0 0
+html 585 5748284 0 0
+woff2 585 49472536 0 0
+pdf 36 53218368 0 0
+txt 8 2200 0 0
+css 4460 35419677 0 0
+eot 48 11322066 0 0
+Unknown 1195 6260350 0 0
+png 1893 13405353 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 8
+/gspl-projects.pdf 21 0 62338011
+/assets/gspl-profile.pdf 6 0 2087586
+/uploads/content/2126sample.pdf 6 0 18168
+/sitemap.txt 5 0 1375
+/uploads/content/4938sample.pdf 5 0 15140
+/sitemap.xml.gz 4 0 1100
+/humans.txt 4 0 1100
+/ads.txt 4 0 1100
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 10
+Unknown 7 5
+macosx 17 9
+ios_iphone 374 38
+winxp 185 25
+win10 10355 1429
+linux 50 4
+win7 4304 1055
+macosx10 2 2
+linuxandroid 1848 151
+win8.1 80 8
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 42
+chrome96.0.4664.104 70 4
+mozilla 1 1
+chrome97.0.4692.99 74 5
+chrome72.0.3626.109 3 3
+chrome102.0.5005.61 466 56
+chrome101.0.4951.64 489 72
+chrome100.0.4896.127 5477 1165
+chrome83.0.4103.61 109 6
+firefox28.0 1 1
+chrome101.0.4951.67 860 115
+chrome56.0.2924.87 22 3
+chrome79.0.3945.130 74 5
+safari13.0.3 72 5
+chrome91.0.4472.88 75 6
+msie11.0 146 19
+chrome79.0.3945.88 1 1
+chrome79.0.3945.79 420 24
+chrome39.0.2171.95 1 1
+chrome84.0.4147.105 3 3
+safari 229 28
+chrome98.0.4758.102 70 4
+chrome60.0.3112.90 28 0
+safari15.4 73 5
+chrome99.0.4844.84 81 8
+chrome101.0.4951.61 531 35
+chrome102.0.0.0 84 11
+chrome101.0.4951.41 407 42
+chrome100.0.4896.88 183 26
+chrome101.0.0.0 465 55
+chrome101.0.4951.54 5150 881
+chrome35.0.2117.157 70 4
+chrome76.0.3809.71 891 60
+chrome94.0.4606.85 85 7
+chrome78.0.3889.0 27 0
+chrome80.0.3987.87 73 5
+firefox60.0.2 2 2
+chrome102.0.5005.62 81 8
+msie8.0 115 21
+msie9.0 193 19
+chrome91.0.4472.114 12 4
+Unknown 7 5
+firefox59.0 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+WhatsApp/2.22.8.79_A 20220531085358
+WhatsApp/2.22.10.73_A 20220522054922
+python-requests/2.27.1 20220522055130
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+WhatsApp/2.22.8.79_A 20220531085358
+WhatsApp/2.22.10.73_A 20220522054922
+python-requests/2.27.1 20220522055130
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 585 744
+From1 8 8
+From2 2 2
+From3 0 0
+From4 2131 16468
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+206 20 2196497
+307 21 0
+303 163 813
+404 26 8840
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 2
+/robots.txt 23 -
+/js/respond.js 3 http://www.greenergysolution.in/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 262
+103.101.213.48 621 2044 39779191 20220505052345
+157.40.77.40 370 1748 62127295 20220505052054
+103.220.210.75 293 1865 70476704 20220507052659
+103.101.213.169 172 595 6175510 20220507052101
+103.82.156.131 145 1335 82514402 20220530232737
+103.101.213.182 129 593 15841406 20220507005116
+157.40.83.116 108 708 31158709 20220507111016
+103.220.210.241 86 795 42081265 20220530054428
+65.154.226.101 59 411 15338667 20220530232234
+103.220.210.154 49 253 4352754 20220505004125
+103.220.210.248 48 497 28434398 20220516055935
+103.101.213.81 45 190 8190597 20220515231215
+157.40.113.215 41 260 12365489 20220506043745
+157.40.124.117 31 102 1374261 20220514044543
+103.101.213.77 29 140 5220956 20220528044838
+117.226.161.121 26 183 10321284 20220504052702
+202.168.86.34 26 88 1916534 20220525053314
+157.40.116.76 24 104 7911046 20220530034923
+65.154.226.220 20 353 17013761 20220527055332
+157.40.131.91 18 235 13426619 20220528110425
+47.29.159.254 14 108 4732379 20220507031021
+157.40.113.169 14 112 5799434 20220502023622
+103.220.210.77 13 96 4859523 20220531023533
+115.187.42.169 11 106 7671355 20220506060748
+157.40.213.220 11 64 4408703 20220510073123
+168.151.132.157 0 1 7460 
+216.194.87.168 0 1 21036 
+119.12.194.62 1 1 74700 20220502111119
+40.94.94.14 0 1 3280919 
+117.227.105.91 5 73 3962083 20220511211641
+65.154.226.169 10 144 8254972 20220530232048
+20.74.247.69 2 2 21478 20220517232252
+207.46.13.104 0 4 1100 
+49.44.83.105 5 72 4080695 20220506225911
+152.39.139.91 0 1 33291 
+152.39.165.5 0 1 1368 
+168.151.172.9 0 1 15356 
+193.200.105.33 0 1 23243 
+40.94.90.91 0 8 806656 
+40.94.90.64 1 13 542937 20220515225544
+119.12.191.181 0 1 33291 
+92.255.34.115 0 1 1234 
+42.110.166.5 4 70 3317779 20220522091646
+94.176.95.4 0 1 2001 
+149.19.251.58 0 1 1088 
+119.13.201.85 0 1 3525 
+130.255.166.121 0 1 275 
+180.149.26.224 0 1 939 
+52.89.125.113 1 1 74279 20220522223028
+107.23.82.86 0 27 1147482 
+216.194.85.222 0 1 82181 
+94.177.179.227 0 1 3280919 
+183.82.15.166 2 6 90996 20220514044705
+157.40.225.156 7 77 4049601 20220522055037
+65.154.226.170 5 72 4158608 20220527050358
+157.40.235.219 5 72 4023998 20220522054842
+103.82.156.136 0 4 40258 
+157.40.155.216 8 128 5980089 20220525223627
+192.36.52.37 1 2 11015 20220510044114
+93.158.91.193 0 1 275 
+103.31.145.70 2 67 3798317 20220525113835
+205.169.39.51 5 72 4096362 20220513015946
+93.158.91.204 1 1 10752 20220526071002
+202.88.157.201 5 72 4158595 20220519232342
+168.151.123.209 0 1 39642 
+157.55.39.32 0 5 57042 
+152.39.247.32 0 1 3061 
+152.39.216.160 1 1 117452 20220513111132
+167.160.54.68 0 1 1382 
+205.237.95.253 1 1 11022 20220502111115
+103.82.156.145 0 1 33566 
+180.149.9.16 0 1 28756 
+173.231.58.194 3 3 25329 20220505061248
+205.169.39.34 5 98 7382539 20220513020220
+188.212.138.34 1 1 14740 20220502111119
+216.19.203.74 0 1 98582 
+94.139.58.68 1 1 10740 20220513111127
+203.109.60.188 0 1 94323 
+150.107.9.4 5 72 4096362 20220512051401
+168.151.119.150 0 1 6057 
+216.19.221.5 0 1 17215 
+65.154.226.168 5 72 4158608 20220527050357
+119.12.190.180 0 1 2130 
+188.119.118.147 0 1 1557 
+109.196.171.77 1 1 10739 20220519220308
+152.39.205.89 0 1 31761 
+49.44.76.229 2 6 90996 20220502020240
+192.71.38.71 0 1 275 
+205.237.95.3 1 1 14740 20220513111132
+66.56.90.202 0 1 3155 
+185.66.139.108 0 1 23243 
+168.151.246.89 0 1 3525 
+94.176.88.52 0 1 5772 
+45.149.148.238 0 1 275 
+167.160.52.222 0 1 53495 
+168.151.185.31 1 1 145152 20220502111119
+198.240.89.184 0 1 1368 
+152.39.243.215 0 1 12288 
+45.114.242.250 0 1 275 
+152.39.227.59 0 1 1256 
+66.56.90.157 0 1 211434 
+152.39.146.173 0 1 31761 
+117.226.235.145 9 84 4524752 20220510165057
+34.220.67.136 1 1 74279 20220522223028
+168.151.105.123 0 1 82344 
+65.154.226.167 5 73 4173951 20220523011910
+168.151.132.29 1 1 74700 20220513111132
+40.94.90.75 1 13 519330 20220515225544
+46.232.208.29 0 1 15443 
+66.249.83.90 1 11 1248679 20220504031355
+167.160.53.93 0 1 2212 
+157.55.39.135 0 4 2428 
+204.101.161.19 0 28 3999344 
+40.94.94.71 0 1 3491 
+223.196.116.106 5 70 4141290 20220525113756
+216.19.221.31 0 1 13739 
+40.77.167.65 0 3 17775 
+157.40.67.104 3 35 3378506 20220531211938
+206.204.12.206 0 1 3601 
+66.56.91.174 0 1 24068 
+168.151.115.227 0 1 13739 
+180.149.20.229 0 1 31045 
+209.95.161.237 0 1 3155 
+168.151.96.113 0 1 939 
+157.55.39.127 0 2 550 
+192.71.30.89 1 1 10739 20220518040559
+199.244.60.116 0 1 14147 
+213.188.95.150 0 1 8837 
+223.191.54.215 2 32 2831754 20220526192426
+168.151.99.82 0 1 36180 
+49.44.85.37 5 72 4158608 20220525113754
+188.94.86.170 0 1 5772 
+161.129.163.149 0 1 3061 
+180.149.14.241 0 1 2835 
+216.19.199.38 0 1 10188 
+92.114.60.186 0 1 38459 
+161.129.162.94 0 1 6057 
+157.40.229.134 6 74 4172804 20220523025227
+119.13.196.51 0 1 29827 
+176.223.105.194 0 1 3977 
+199.244.60.57 1 1 117452 20220502111119
+66.249.83.91 1 6 285208 20220504031355
+104.211.138.171 5 73 4162086 20220519081858
+130.255.166.142 1 1 11022 20220502055932
+103.56.230.72 4 70 3929310 20220504084247
+216.109.167.110 0 1 3609 
+206.204.43.43 0 1 39642 
+117.55.240.69 2 6 90996 20220528030648
+40.94.94.61 1 14 551191 20220513034603
+65.154.226.109 5 72 4158608 20220527050442
+40.94.90.98 0 1 3491 
+151.248.1.125 1 1 10836 20220506223416
+157.40.149.192 6 74 4172874 20220530002447
+42.106.161.6 5 74 4273229 20220502020255
+85.186.98.154 1 1 10739 20220522055130
+188.240.48.123 0 1 3977 
+206.204.41.217 0 1 20037 
+40.94.90.45 0 11 1145717 
+203.109.60.77 0 1 37626 
+168.151.104.202 0 1 8837 
+49.44.85.164 5 72 4158589 20220531052933
+216.145.17.190 1 1 10760 20220519174102
+202.177.229.199 5 72 4096341 20220514044714
+168.151.119.195 0 1 22254 
+206.204.47.204 0 1 306 
+49.44.86.168 1 1 12544 20220504031340
+188.241.202.209 0 2 13376 
+168.151.166.116 0 1 22254 
+119.12.200.173 0 1 3456 
+119.12.207.196 0 1 15356 
+162.43.227.95 0 1 105721 
+40.94.90.20 2 12 640926 20220515225544
+157.40.231.32 1 2 11014 20220522100225
+180.149.17.180 0 1 18463 
+205.237.94.188 0 1 1395 
+94.176.93.55 0 1 314 
+65.154.226.171 10 144 8317190 20220523012043
+119.12.189.135 0 1 306 
+119.13.213.42 0 1 15443 
+192.71.142.35 0 1 275 
+183.87.110.72 5 69 3895954 20220506221810
+49.44.87.168 5 72 4096362 20220507055506
+152.39.162.185 0 1 77336 
+119.12.193.25 0 1 1020212 
+168.151.165.152 0 1 2001 
+40.94.94.88 1 11 558351 20220513034603
+203.78.172.230 0 1 53495 
+223.191.34.173 4 72 4361211 20220520071220
+93.114.9.91 0 1 8466 
+152.39.137.61 0 1 1103 
+40.94.90.5 1 15 503029 20220515225544
+207.46.13.86 0 3 8010 
+117.227.9.25 5 77 4874712 20220526211921
+185.223.56.233 0 1 4681 
+40.94.94.92 1 15 450739 20220513034603
+209.95.169.110 0 1 1256 
+46.232.208.41 0 1 91505 
+52.34.76.65 4 70 3947556 20220510222446
+49.37.47.75 11 84 4231738 20220530000818
+47.11.70.101 5 73 4027519 20220531085358
+2.57.79.11 0 2 3446 
+18.119.126.11 4 70 4009782 20220529121804
+85.217.221.192 0 1 23032 
+157.55.39.177 0 3 41560 
+188.241.249.237 0 1 161688 
+204.48.25.188 2 2 74071 20220513192403
+188.212.141.125 0 1 2130 
+94.176.54.63 0 1 10188 
+40.77.167.68 0 4 1100 
+110.224.5.180 4 71 3934870 20220506221657
+205.169.39.149 5 88 4187365 20220513020519
+40.94.94.8 0 8 784740 
+188.212.140.63 0 1 1020212 
+66.249.83.89 1 5 242918 20220504031100
+92.255.87.126 0 1 318616 
+93.158.91.224 0 1 275 
+188.240.48.218 0 1 7460 
+198.240.126.86 0 1 30736 
+192.71.225.127 0 1 275 
+52.12.63.20 1 1 74279 20220519203702
+49.44.80.200 5 66 3303529 20220525113833
+27.122.61.165 9 50 761638 20220504031955
+65.154.226.166 10 144 8254972 20220530231927
+192.171.119.166 2 2 21506 20220529113304
+152.39.186.0 0 1 17215 
+207.46.13.81 0 1 275 
+74.85.209.184 0 1 29827 
+40.94.94.64 2 17 654215 20220513034603
+182.79.194.7 5 72 4158587 20220528030658
+207.46.13.191 0 3 41560 
+206.204.46.107 0 1 14147 
+40.77.167.64 0 6 54742 
+207.46.13.42 0 1 275 
+103.82.156.155 1 2 125918 20220527015152
+130.255.166.120 0 1 275 
+180.149.9.102 0 1 3456 
+40.94.94.49 0 7 1097126 
+157.40.158.25 7 84 4512376 20220517053728
+165.22.45.9 1 1 10836 20220506191127
+168.151.131.48 0 1 20037 
+167.160.54.45 0 1 1962 
+157.40.245.57 5 72 4096341 20220511220443
+185.240.252.30 0 1 8466 
+157.40.97.42 6 69 4101853 20220518104033
+168.151.165.103 0 1 51151 
+205.237.94.15 0 1 15356 
+206.204.2.97 0 1 4681 
+139.5.105.3 0 1 38478 
+94.139.61.27 0 1 314 
+49.44.86.103 1 4 53719 20220506225418
+180.149.27.156 0 1 51151 
+188.241.207.15 0 1 2835 
+162.43.251.239 0 1 625473 
+49.44.80.71 5 67 4105296 20220518050125
+205.169.39.209 5 88 4249620 20220527051045
+103.82.156.134 0 2 89992 
+207.46.13.211 0 4 39645 
+168.151.165.214 0 1 161688 
+185.223.56.113 0 1 1962 
+43.250.167.68 5 73 4812024 20220504053652
+168.151.119.18 0 1 98582 
+213.188.91.248 0 1 36180 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20220502 202 767 26417292 10
+20220503 11 149 9627022 1
+20220504 527 2098 63101142 13
+20220505 445 2250 72999441 7
+20220506 323 2228 100215523 16
+20220507 403 1817 39582459 9
+20220508 0 8 68785 0
+20220509 0 14 133153 0
+20220510 68 569 35811373 7
+20220511 10 146 8058699 2
+20220512 43 481 29195530 3
+20220513 55 661 38443542 16
+20220514 79 379 13775784 5
+20220515 33 331 17636257 7
+20220516 44 345 28996382 6
+20220517 16 174 6295074 4
+20220518 17 193 9114276 4
+20220519 13 149 8416734 5
+20220520 4 72 4361211 1
+20220521 5 73 4162086 1
+20220522 27 305 16065501 8
+20220523 58 791 46028776 8
+20220524 25 88 1910247 2
+20220525 29 419 21460958 7
+20220526 27 289 16198551 6
+20220527 64 778 39271203 9
+20220528 47 373 18222281 6
+20220529 20 232 9170670 3
+20220530 112 785 45993411 12
+20220531 19 258 16150282 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+15mn-30mn 9
+30s-2mn 20
+0s-30s 105
+30mn-1h 16
+5mn-15mn 7
+1h+ 12
+2mn-5mn 13
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 190
+/ 449 5100274 140 48
+/assets/web/assets/fonts/fa-solid-900.woff2 151 17735252 4 35
+/assets/web/assets/fonts/fa-brands-400.woff2 150 11205000 4 6
+/assets/web/assets/fonts/Flaticon.woff2 149 2196260 3 18
+/assets/web/assets/fonts/fa-regular-400.woff2 124 17998848 3 12
+/products/grundfos/water-pump 121 758035 2 4
+/administrator/products/ 108 532873 1 0
+/about-us 94 657523 8 13
+/contact 77 573534 4 9
+/administrator/products/add-edit/0 74 290990 0 0
+/assets/web/assets/js/popper.min.js.map 63 17325 0 0
+/assets/web/assets/css/bootstrap.min.css.map 62 17050 0 0
+/projects 61 376783 0 1
+/assets/web/assets/js/swiper.min.js.map 61 16775 0 1
+/assets/web/assets/js/bootstrap-select.js.map 61 16775 0 0
+/assets/web/assets/js/bootstrap.min.js.map 61 16775 0 0
+/administrator/products/3 50 263886 1 0
+/administrator/products 44 237547 0 0
+/administrator/subcategory/list 43 3137 0 0
+/blogs 33 193365 1 2
+/products/fowler-westrup/silo-storage-system 22 130616 1 0
+/administrator/login 19 19659 6 6
+/products/danfoss/vlt-drives 19 121608 0 0
+/administrator/subcategory 19 81412 0 0
+/administrator/projects/ 18 76745 0 0
+/administrator/products/add-edit/52 2 8999 0 0
+/administrator/professional 4 15200 0 0
+/administrator/subcategory/ 7 30419 0 0
+/administrator/content 9 36104 0 0
+/administrator/products/add-edit/56 14 79756 0 0
+/administrator/products/gallery/64 2 6834 0 0
+/product/danfoss/vlt-drives/refrigeration-drive 1 6939 0 0
+/administrator/products/add-edit/75 2 9408 0 0
+/administrator/subcategory/add-edit/0 15 51365 0 0
+/administrator/products/add-edit/50 2 8676 0 0
+/products/grundfos/demand-driven-distribution 4 23972 0 0
+/product/grundfos/water-pump/cme 1 7269 0 0
+/administrator/content/add-edit/1 2 8335 0 0
+/product/fowler-westrup/color-sorters/ics-series 1 7150 0 0
+/product/grundfos/water-pump/cm 2 14524 0 0
+/administrator/projects/add-edit/8 1 3622 0 0
+/administrator/products/gallery/72 2 6825 0 0
+/assets/web/assets/fonts/fa-brands-400d41d.eot 9 1169316 0 0
+/product/compair/air-treatment-accessories/compressed-air-management-system 6 41006 0 0
+/administrator/content/add-edit/6 2 7851 0 0
+/administrator/banner 4 15104 0 0
+/project/project-4 2 13004 0 0
+/administrator/products/gallery/36 2 6881 0 0
+/administrator/products/gallery/68 2 6807 0 0
+/products/compair/air-treatment-accessories 9 54810 0 1
+/administrator/products/add-edit/49 3 13771 0 0
+/product/thermax/boiler-heater/combipaccpfd 1 6723 0 0
+/administrator/products/gallery/66 2 6821 0 0
+/administrator/review 4 16140 0 0
+/product/grundfos/water-pump/pmg_ie5-motor-integrated 1 8191 0 0
+/administrator/products/gallery/78 2 6837 0 0
+/product/grundfos/motor/pmg_ie5-motor-intigrated 1 8186 0 1
+/administrator/products/gallery/73 2 6803 0 0
+/administrator/subcategory/add-edit/40 3 10286 0 0
+/product/compair/portable-compressors/small-portable-air-compressor 2 14028 0 0
+/product/grundfos/motor/ie6-motor-end-suction-pump 1 8090 0 0
+/products/thermax/water-purification 2 11880 0 0
+/product/grundfos/water-pump/tpe 2 14336 0 0
+/project/project-3 1 6490 0 0
+/administrator/products/gallery/52 2 6822 0 0
+/assets/web/assets/fonts/Flaticond41d.eot 9 256050 0 0
+/administrator/products/add-edit/68 3 14376 0 0
+/administrator/products/gallery/77 2 6811 0 0
+/product/compair/oil-lubricated-compressors/lubricated-rotary-screw-compressor-23-29-kw 1 6814 0 0
+/administrator/products/gallery/55 2 6828 0 0
+/administrator/emailtemplate/add-edit/2 1 3625 0 0
+/administrator/products/gallery/61 2 6831 0 0
+/administrator/products/add-edit/35 2 10062 0 0
+/product/fowler-westrup/rice-milling-machinery/pre-cleaner-sab 2 13727 0 1
+/product/grundfos/water-pump/cre 1 7291 0 0
+/assets/web/assets/fonts/Stroke-Gap-Icons.eot 3 137388 0 0
+/administrator/products/gallery/56 2 6845 0 0
+/administrator/projects/add-edit/14 9 32786 0 0
+/product/fowler-westrup/rice-milling-machinery/paddy-separator-se 1 6929 0 0
+/product/grundfos/water-pump/seg 1 6962 0 0
+/administrator/projects/add-edit/15 10 36702 0 0
+/assets/web/assets/fonts/fa-light-300d41d.eot 9 3607560 0 0
+/administrator/products/gallery/65 2 6820 0 0
+/administrator/products/gallery/50 3 10198 0 0
+/administrator/emailtemplate/add-edit/1 1 3784 0 0
+/product/grundfos/water-pump/nb 2 14312 0 0
+/administrator/products/gallery/58 3 10246 0 0
+/post-query 1 94 0 0
+/administrator/products/add-edit/65 3 12942 0 0
+/administrator/products/gallery/80 2 6802 0 0
+/products/thermax/solar 5 29560 0 1
+/administrator/category 2 7636 0 0
+/administrator/emailtemplate 1 3662 0 0
+/products/thermax/pump 9 54636 0 1
+/administrator/products/add-edit/71 2 9749 0 0
+/administrator/dashboard 11 34759 0 0
+/products/grundfos/motor 16 96745 0 0
+/administrator/content/add-edit/2 2 8066 0 0
+/administrator/products/add-edit/17 2 8410 0 0
+/administrator/subcategory/add-edit/33 2 6879 0 0
+/project/shanti-agro-tejpur-vam 1 6502 0 0
+/product/compair/oil-lubricated-compressors/l03-fixed-speed-rotary-screw-compressor 1 6829 0 0
+/administrator/products/gallery/57 2 6844 0 0
+/product/fowler-westrup/rice-milling-machinery/abrasive-whitener-xpa 2 13922 0 0
+/administrator/products/gallery/59 2 6836 0 0
+/product/grundfos/water-pump/tp 1 7184 0 0
+/administrator/gallery 2 7408 0 0
+/products/fowler-westrup/color-sorters 2 12062 0 1
+/product/danfoss/vlt-drives/fc300 1 7018 0 0
+/wp-admin/includes/ 1 275 1 1
+/product/thermax/water/siro 1 6689 0 1
+/administrator/query-list 4 15136 0 0
+/administrator/products/gallery/75 2 6806 0 0
+/webmail 1 12556 1 1
+/administrator/products/gallery/63 2 6859 0 0
+/administrator/products/gallery/67 2 6817 0 0
+/administrator/products/gallery/54 3 10255 0 0
+/administrator/projects 17 69794 0 0
+/products/compair/oil-lubricated-compressors 12 72807 0 1
+/administrator/blogs 4 15428 0 0
+/administrator/subcategory/add-edit/32 2 6870 0 0
+/product/compair/oil-free-compressors/ultima-oil-free-screw-compressors 1 6841 0 1
+/products/fowler-westrup/post-harvest-processing-machines 3 18836 0 0
+/administrator/products/add-edit/53 3 14229 0 0
+/administrator/products/gallery/74 2 6810 0 0
+/assets/web/assets/fonts/fa-regular-400d41d.eot 9 3326652 0 1
+/administrator/products/add-edit/15 2 8738 0 0
+/products/compair/oil-free-compressors 6 36280 0 0
+/career 16 96865 0 4
+/administrator/products/gallery/79 2 6807 0 0
+/administrator/products/gallery/76 2 6802 0 0
+/blog/content-will-be-updated-soon-please-keep-browsing-our-website 1 6552 0 0
+/administrator/products/4 3 16356 0 0
+/administrator/products/2 12 64307 0 0
+/product/grundfos/water-pump/ie5 1 8206 0 0
+/project/gabroo-purbat-te-atm 1 6505 0 0
+/products/thermax/water 8 48782 0 0
+/administrator/products/gallery/70 2 6806 0 0
+/administrator/products/gallery/49 2 6810 0 0
+/administrator/projects/add-edit/13 5 18168 0 0
+/assets/font-awesome/fonts/fontawesome-webfont.woff 5 327260 0 0
+/project/project-5 3 19501 0 1
+/product/grundfos/water-pump/dewatering-pump-se-sl 2 14328 0 0
+/product/danfoss/vlt-drives/fc103 2 13622 0 0
+/products/thermax/boiler-heater 7 42433 0 0
+/administrator/products/add-edit/16 2 8476 0 0
+/products/danfoss/vacon 8 47440 0 0
+/administrator/products/gallery/82 2 6802 0 0
+/product/grundfos/water-pump/ie6 1 8197 0 0
+/product/compair/air-treatment-accessories/energy-efficient-compressed-air-dryers 1 6945 0 0
+/administrator/products/gallery/51 2 6806 0 0
+/administrator/products/add-edit/80 2 9494 0 0
+/products/compair/portable-compressors 4 24152 0 0
+/assets/web/assets/fonts/fa-light-300.woff2 1 156896 0 0
+/products/compair/air-compressor 3 18253 0 0
+/administrator/products/gallery/81 2 6829 0 0
+/product/fowler-westrup/silo-storage-system/flat-bottom-silos 1 7437 0 0
+/administrator/content/add-edit/0 4 13964 0 0
+/administrator/products/add-edit/64 2 8799 0 0
+/administrator/generalsetting 9 33451 0 0
+/administrator/products/gallery/53 2 6845 0 0
+/administrator/products/gallery/62 2 6825 0 0
+/product/thermax/boiler-heater/aquatherm 3 20147 0 0
+/administrator/products/gallery/83 2 6803 0 0
+/products/fowler-westrup/rice-milling-machinery 12 74675 0 1
+/product/danfoss/vacon/vacon-19 5 35650 0 1
+/assets/bootstrap/fonts/glyphicons-halflings-regular.woff2 10 180280 0 3
+/product/danfoss/vlt-drives/fc202 2 13266 0 0
+/administrator/products/add-edit/36 2 10495 0 0
+/cpanel 5 62728 2 2
+/project/project-2 1 6487 0 0
+/administrator/products/gallery/35 2 6884 0 0
+/administrator/subcategory/add-edit/41 2 6895 0 0
+/administrator/projects/add-edit/12 10 36625 0 0
+/administrator/emailtemplate/ 1 3662 0 0
+/administrator/products/add-edit/57 6 34174 0 1
+/administrator/projects/add-edit/11 13 47682 0 0
+/administrator/subcategory/add-edit/36 2 6868 0 0
+/product/fowler-westrup/rice-milling-machinery/destoner-csp 1 6795 0 0
+/administrator/products/gallery/71 2 6801 0 0
+/administrator/content/add-edit/11 2 7062 0 0
+/product/fowler-westrup/rice-milling-machinery/centrifugal-husker-cfh 1 6765 0 0
+/administrator/subcategory/add-edit/37 4 13736 0 0
+/administrator/banner/add-edit/11 1 3503 0 0
+/administrator/products/add-edit/11 4 16757 0 0
+/administrator/content/ 1 4036 0 0
+/assets/web/assets/fonts/fa-solid-900d41d.eot 9 2825100 0 2
+/administrator/projects/add-edit/0 6 21566 0 0
+/administrator/client 4 15428 0 0
+/administrator/products/gallery/69 2 6808 0 0
+END_SIDER
